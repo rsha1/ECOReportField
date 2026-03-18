@@ -2483,7 +2483,7 @@ Die Objekt-Geometrien werden in Objekt &apos;%1&apos; zusammengeführt, welches 
     </message>
     <message>
         <source>Choose a basemap for your project. Pick from the available options or provide your own custom URL.</source>
-        <translation>Entscheiden Sie sich für eine Hintergrundkarte für ihr Projekt. Wählen Sie eine aus den vorgegeben Möglichkeiten oder nutzen Sie eine eigene URL.</translation>
+        <translation>Entscheiden Sie sich für eine Hintergrundkarte für Ihr Projekt. Wählen Sie eine aus den vorgegeben Möglichkeiten oder nutzen Sie eine eigene URL.</translation>
     </message>
     <message>
         <source>Colorful</source>
