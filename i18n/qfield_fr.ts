@@ -609,7 +609,7 @@ Cancel to make a minimal device scan instead.</source>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation>Réduire tout</translation>
+        <translation>Tout rétracter</translation>
     </message>
 </context>
 <context>
@@ -5869,7 +5869,7 @@ projet</translation>
     </message>
     <message>
         <source>Welcome back to %1.</source>
-        <translation>Bienvenue à %1.</translation>
+        <translation>Ravis de vous revoir sur %1.</translation>
     </message>
     <message>
         <source>Welcome to %1.</source>
@@ -6866,7 +6866,7 @@ pour afficher des actions</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="unfinished"/>
+        <translation>À propos de %1</translation>
     </message>
     <message>
         <source>Do you want to import &lt;b&gt;%1&lt;/b&gt; from &lt;b&gt;%2&lt;/b&gt; into %3?</source>
