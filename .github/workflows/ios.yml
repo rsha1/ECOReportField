@@ -59,7 +59,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: 🍭 Setup XCode
-        uses: maxim-lobanov/setup-xcode@v1.6.0
+        uses: maxim-lobanov/setup-xcode@v1.7.0
         if: ${{ env.SENTRY_AUTH_TOKEN != '' }}
         with:
           xcode-version: 16.2
