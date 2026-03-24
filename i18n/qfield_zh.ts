@@ -1621,7 +1621,7 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
     </message>
     <message>
         <source>Sample projects</source>
-        <translation>示例工程</translation>
+        <translation type="vanished">示例工程</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -4437,14 +4437,6 @@ Cancel to make a minimal device scan instead.</source>
         <translation>当地图画布遵循或锁定到位置时，它也可以旋转以匹配指南针朝向或移动方向。</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve the experience for everyone.</source>
-        <translation>如果启用，将收集并发送匿名测评数据，帮助改善所有用户的使用体验。</translation>
-    </message>
-    <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve %1 for everyone.</source>
-        <translation>如果启用，将收集并发送匿名测评数据，帮助改善%1的所有用户使用体验。</translation>
-    </message>
-    <message>
         <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, the system will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase center offset.</source>
         <translation>该值将校正定位设备记录的Z值。如果输入值为1.6，系统将自动从每条记录的值中减去1.6。请确保插入有效天线高度，即杆长+天线相位中心偏移。</translation>
     </message>
@@ -4507,6 +4499,14 @@ Cancel to make a minimal device scan instead.</source>
     <message>
         <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation>配置网络代理，通过代理服务器路径QField的流量。适用于企业网络和VPN。</translation>
+    </message>
+    <message>
+        <source>If enabled, the native camera provided by the operating system will be used.</source>
+        <translation>如果启用，将使用操作系统提供的原生相机。</translation>
+    </message>
+    <message>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve the user experience for everyone.</source>
+        <translation>如果启用，将收集并发送匿名测评数据，帮助改善用户的使用体验。</translation>
     </message>
 </context>
 <context>

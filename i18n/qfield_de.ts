@@ -4436,14 +4436,6 @@ Abbrechen um einen verkürzten Scan durchzuführen. </translation>
         <translation>Wenn der Karteninhalt dem Standort folgt, kann die Karte rotieren um der Kompassausrichtung oder der Bewgungsrichtung zu folgen</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve the experience for everyone.</source>
-        <translation>Wenn aktiviert, werden anonymisierte Metriken gesammelt, um QField zu verbessern.</translation>
-    </message>
-    <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve %1 for everyone.</source>
-        <translation>Wenn aktiviert, werden anonymisierte Metriken gesammelt, um %1 zu verbessern.</translation>
-    </message>
-    <message>
         <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, the system will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase center offset.</source>
         <translation type="unfinished"/>
     </message>
@@ -4506,6 +4498,14 @@ Abbrechen um einen verkürzten Scan durchzuführen. </translation>
     <message>
         <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation>Konfiguriere einen Proxy um QFields Netzwerkverkehr durch den Proxyserver zu leiten. Hilfreich bei Firmennetzwerken und VPNs.</translation>
+    </message>
+    <message>
+        <source>If enabled, the native camera provided by the operating system will be used.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve the user experience for everyone.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -1625,7 +1625,7 @@ Las geometrías de los objetos se combinarán en el objeto &apos;%1&apos;, que c
     </message>
     <message>
         <source>Sample projects</source>
-        <translation>Proyectos de ejemplo</translation>
+        <translation type="vanished">Proyectos de ejemplo</translation>
     </message>
     <message>
         <source>Created projects</source>
@@ -4439,14 +4439,6 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
         <translation>Cuando el lienzo del mapa está siguiendo la posición o bloqueado a ella, también puede rotar para coincidir con la orientación de la brújula o la dirección del movimiento.</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve the experience for everyone.</source>
-        <translation>Si se habilita, se recopilarán y enviarán métricas anónimas para ayudar a mejorar la experiencia de todos.</translation>
-    </message>
-    <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve %1 for everyone.</source>
-        <translation>Si se habilita, se recopilarán y enviarán métricas anónimas para ayudar a mejorar %1 para todos.</translation>
-    </message>
-    <message>
         <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, the system will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase center offset.</source>
         <translation>Este valor corregirá los valores Z registrados por el dispositivo de posicionamiento. Si se introduce un valor de 1.6, el sistema restará automáticamente 1.6 de cada valor registrado. Asegúrese de introducir la altura efectiva de la antena, es decir, la longitud del mástil + el desplazamiento del centro de fase de la antena.</translation>
     </message>
@@ -4456,27 +4448,27 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>Network</source>
-        <translation type="unfinished"/>
+        <translation>Red</translation>
     </message>
     <message>
         <source>Enable proxy</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar proxy</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"/>
+        <translation>Configuración predeterminada del sistema</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Host</translation>
     </message>
     <message>
         <source>e.g. proxy.example.com</source>
-        <translation type="unfinished"/>
+        <translation>ej: proxy.example.com</translation>
     </message>
     <message>
         <source>Port</source>
@@ -4484,7 +4476,7 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>e.g. 8888</source>
-        <translation type="unfinished"/>
+        <translation>ej. 8888</translation>
     </message>
     <message>
         <source>Username</source>
@@ -4492,7 +4484,7 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Opcional</translation>
     </message>
     <message>
         <source>Password</source>
@@ -4500,15 +4492,24 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>URLs excluded from proxy (comma-separated)</source>
-        <translation type="unfinished"/>
+        <translation>URLs excluidas del proxy (separadas por comas)</translation>
     </message>
     <message>
         <source>e.g. localhost, 192.168.*</source>
-        <translation type="unfinished"/>
+        <translation>ej: localhost, 192.168.*</translation>
     </message>
     <message>
         <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
-        <translation type="unfinished"/>
+        <translation>Configura un proxy de red para enrutar el tráfico de QField a través de un servidor proxy. Útil para redes corporativas y VPN.</translation>
+    </message>
+    <message>
+        <source>If enabled, the native camera provided by the operating system will be used.</source>
+        <translation>Si está habilitada, se utilizará la cámara nativa proporcionada por el sistema operativo.
+ </translation>
+    </message>
+    <message>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve the user experience for everyone.</source>
+        <translation>Si está activado, se recopilarán y enviarán métricas anónimas para mejorar la experiencia de usuario.</translation>
     </message>
 </context>
 <context>
@@ -4794,7 +4795,7 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>No</source>
@@ -4802,7 +4803,7 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>

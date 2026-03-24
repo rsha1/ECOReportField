@@ -4441,14 +4441,6 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
         <translation>Kun kartta seuraa sijaintia tai on lukittuna siihen, se voi myös kääntyä kompassin- tai liikesuunnan mukaan.</translation>
     </message>
     <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve the experience for everyone.</source>
-        <translation>Jos tämä on käytössä, anonyymejä mittaustietoja kerätään ja lähetetään käyttökokemuksen parantamiseksi.</translation>
-    </message>
-    <message>
-        <source>If enabled, anonymized metrics will be collected and sent to help improve %1 for everyone.</source>
-        <translation>Jos tämä on käytössä, anonyymejä mittaustietoja kerätään ja lähetetään, jotta %1 voidaan parantaa kaikille käyttäjille.</translation>
-    </message>
-    <message>
         <source>This value will correct the Z values recorded from the positioning device. If a value of 1.6 is entered, the system will automatically subtract 1.6 from each recorded value. Make sure to insert the effective antenna height, i.e. pole length + antenna phase center offset.</source>
         <translation>Tämä arvo korjaa paikannuslaitteelta tallennettavat Z‑arvot. Jos syötät arvon 1,6, järjestelmä vähentää automaattisesti 1,6 jokaisesta tallennetusta arvosta. Varmista, että syötät todellisen antennikorkeuden, eli kepin pituuden + antennin pohjan keskipisteestä mitattu laitteen korkeus</translation>
     </message>
@@ -4511,6 +4503,14 @@ Peruuta tehdäksesi suppeampi laiteskannaus.</translation>
     <message>
         <source>Configure a network proxy to route QField&apos;s traffic through a proxy server. Useful for corporate networks and VPNs.</source>
         <translation>Määritä verkon välityspalvelin, jotta QFieldin liikenne ohjataan proxy‑palvelimen kautta. Hyödyllinen yritysverkoissa ja VPN‑yhteyksissä.</translation>
+    </message>
+    <message>
+        <source>If enabled, the native camera provided by the operating system will be used.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If enabled, anonymized metrics will be collected and sent to help improve the user experience for everyone.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
